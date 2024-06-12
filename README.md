@@ -2,7 +2,7 @@
 
   =>  Template Link    : https://htmlcodex.com/bootstrap-shop-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE file)
 
   =>  Template Author  : HTML Codex
 
